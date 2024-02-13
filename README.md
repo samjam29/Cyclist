@@ -14,9 +14,6 @@ This repository contains the analysis project for Cyclistic's historical trip da
 
 Cyclistic’s historical trip data includes detailed information on bike trips, encompassing ride type, trip durations, station details, and user statuses (casual or member). Each trip record is uniquely identified by a ride ID and includes attributes such as rideable type, start and end timestamps, station names and IDs, as well as geographical coordinates for both starting and ending stations.
 
-### Source
-
-The public data has been made available by Motivate International Inc. under license.
 
 ### Data Attributes
 
